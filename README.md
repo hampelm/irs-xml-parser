@@ -27,7 +27,15 @@ Then save the results to a csv with the headers `ein,year,name,form,exists,url`
 
 Files will save to `data/`.
 
-## Helpful S3 commands
+## To parse the XML:
+
+`node parse.js`
+
+# But start here first, probably has what you want
+* https://www.irs.gov/uac/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data
+* https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf
+
+# Helpful S3 commands
 
 To list
 
