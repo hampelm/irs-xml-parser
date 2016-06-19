@@ -1,0 +1,1034 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2012-03-02T07:24:56-06:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GIFFORD HILLEGASS &amp; INGWERSEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>SIX CONCOURSE PARKWAY SUITE 600</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30328</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>582074448</EIN>
+      <Name>
+        <BusinessNameLine1>PACE ACADEMY PARENTS' CLUB INC</BusinessNameLine1>
+      </Name>
+      <NameControl>PACE</NameControl>
+      <Phone>4042407411</Phone>
+      <USAddress>
+        <AddressLine1>966 WEST PACES FERRY ROAD NW</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30327</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEPHANIE LUETTERS</Name>
+      <Title>TREASURER</Title>
+      <Phone>4042407411</Phone>
+      <DateSigned>2012-03-01</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LINDA E BERGGREN</Name>
+      <Phone>7703961100</Phone>
+      <DatePrepared>2012-03-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="RetDoc3" referenceDocumentId="RetDoc7">
+      <NameOfPrincipalOfficerPerson>CINDY PICKMAN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>966 WEST PACES FERRY ROAD NW</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30327</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>963744</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1993</YearFormation>
+      <StateLegalDomicile>GA</StateLegalDomicile>
+      <ActivityOrMissionDescription>RAISE MONEY TO DONATE TO PACE ACADEMY FOR BUILDING IMPROVEMENTS,CLASSROOM MATERIALS AND PROFESSIONAL DEVELOPMENT.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>5</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>459</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>438623</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>533990</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>3555</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>2228</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>240</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>35</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>-65490</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>10543</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>376928</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>546796</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>329903</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>418944</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>14553</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>50715</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>50420</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>380618</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>469364</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-3690</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>77432</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>46404</TotalAssetsBOY>
+      <TotalAssetsEOY>123336</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>500</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>45904</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>123336</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>RAISE MONEY TO DONATE TO PACE ACADEMY FOR BUILDING IMPROVEMENTS,CLASSROOM MATERIALS AND PROFESSIONAL DEVELOPMENT.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>140000</Expense>
+      <Grants>140000</Grants>
+      <Description>BUILDING IMPROVEMENTS</Description>
+      <Activity2>
+        <Expense>165655</Expense>
+        <Grants>165655</Grants>
+        <Description>CLASSROOM MATERIALS</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>75000</Expense>
+        <Grants>75000</Grants>
+        <Description>LEARNING SPECIALIST PROGRAM FOR LOWER SCHOOL</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>63688</Expense>
+        <Grants>38289</Grants>
+        <Revenue>2228</Revenue>
+        <Description>PROFESSIONAL DEVELOPMENT AND OTHER VARIOUS ACTIVITIES</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>63688</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceGrnt>38289</TotalOfOtherProgramServiceGrnt>
+      <TotalOfOtherProgramServiceRev>2228</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>444343</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc2">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds>false</DonorAdvisedFunds>
+      <ConservationEasements>false</ConservationEasements>
+      <CollectionsOfArt>false</CollectionsOfArt>
+      <CreditCounseling>false</CreditCounseling>
+      <TermOrPermanentEndowments>false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip>false</ReportLandBldgEquip>
+      <ReportInvestOthSecurities>false</ReportInvestOthSecurities>
+      <ReportProgRelInvest>false</ReportProgRelInvest>
+      <ReportOtherAssets>false</ReportOtherAssets>
+      <ReportOtherLiabilities>false</ReportOtherLiabilities>
+      <ReportFin48Footnote>false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt>false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt>false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising referenceDocumentId="RetDoc4">false</ProfessionalFundraising>
+      <FundraisingActivities referenceDocumentId="RetDoc4">true</FundraisingActivities>
+      <Gaming referenceDocumentId="RetDoc4">false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc5">true</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc5">false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc6">true</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc6">true</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc8">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc8">true</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc8">false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc8">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc8">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>true</QuidProQuoContributions>
+      <QuidProQuoDisclosure>true</QuidProQuoDisclosure>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>5</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>false</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>false</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>false</DocumentRetentionPolicy>
+      <CompensationProcessCEO>false</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>GA</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>STEPHANIE LUETTERS</NamePerson>
+        <TelephoneNumber>4042621345</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>966 W PACES FERRY ROAD</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30327</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>CINDY PICKMAN</NamePerson>
+        <Title>VICE PRESIDE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAREN MCCREA</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>12.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAM MCGONNIGLE</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHANIE LUETTERS</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>12.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>AMY SILVERSTEIN</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LESLIE SULLIVAN</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GINGER GREENE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALLI ALLEN</NamePerson>
+        <Title>PAST PRESIDE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LORI ZWECKER</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATE HOOD</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANNE LEMASTRA</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ERIN LITTLE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRAN KONRADT</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SUSAN MILLS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HARVEY ROSS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HEATHER WHITE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CAROLINE CRAWFORD</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHRISTY PAYNE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JACKIE SWIECICHOWSKI</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEANETTE PAPADAPOULOS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JENNY BETHEL</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHLEEN HAIDET</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JENY MATHIS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JULIA REYNOLDS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAY DOUGLASS</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANNIKA EICHENLAUB</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KIM BERRY</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KIM HELFGOTT</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GLENDA MORELAND</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LORI MOVSOVITZ EDLINE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RANDY MARCRUM</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RAYE HANDLER</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JULIE SMITH</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DONNA DRAUGHON</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PHYLLIS ALLEN</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SALLY HAWN</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SALLY SINGLETARY</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHERRI DIAMOND</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TERRI JANKI</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>VICKI MORSE</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD RUSHTON</NamePerson>
+        <Title>COMMITTEE CH</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <FundraisingEvents>310701</FundraisingEvents>
+      <RelatedOrganizations>30960</RelatedOrganizations>
+      <AllOtherContributions>192329</AllOtherContributions>
+      <NoncashContributions>212309</NoncashContributions>
+      <TotalContributions>533990</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>PPN - PARENTING CLASSES</Description>
+        <BusinessCode>812900</BusinessCode>
+        <TotalRevenueColumn>2228</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2228</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>2228</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>35</TotalRevenueColumn>
+        <ExclusionAmount>35</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>19980</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>19980</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GrossIncomeFundraisingEvents>378244</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>310701</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>378745</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>-501</TotalRevenueColumn>
+        <ExclusionAmount>-501</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <GrossSalesOfInventory>25702</GrossSalesOfInventory>
+      <CostOfGoodsSold>18223</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>7479</TotalRevenueColumn>
+        <ExclusionAmount>7479</ExclusionAmount>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>561499</BusinessCode>
+        <TotalRevenueColumn>3565</TotalRevenueColumn>
+        <ExclusionAmount>3565</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>3565</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>546796</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2228</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>10578</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>418944</Total>
+        <ProgramServices>418944</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <FeesForServicesAccounting>
+        <Total>4605</Total>
+        <ManagementAndGeneral>4605</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <Advertising>
+        <Total>1775</Total>
+        <ManagementAndGeneral>1775</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>18641</Total>
+        <ManagementAndGeneral>4088</ManagementAndGeneral>
+        <Fundraising>14553</Fundraising>
+      </OfficeExpenses>
+      <OtherExpenses>
+        <Description>TEACHER/STAFF GIFTS</Description>
+        <Total>8629</Total>
+        <ProgramServices>8629</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GRADE LEVEL FUNCTIONS</Description>
+        <Total>5900</Total>
+        <ProgramServices>5900</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PARENTING CONNECTION</Description>
+        <Total>4842</Total>
+        <ProgramServices>4842</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>HOSPITATLITY</Description>
+        <Total>2611</Total>
+        <ProgramServices>2611</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SCHOOLKEEPER AWARD</Description>
+        <Total>1705</Total>
+        <ProgramServices>1705</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1712</Total>
+        <ProgramServices>1712</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>469364</Total>
+        <ProgramServices>444343</ProgramServices>
+        <ManagementAndGeneral>10468</ManagementAndGeneral>
+        <Fundraising>14553</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>24064</BOY>
+        <EOY>96755</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>22340</BOY>
+        <EOY>20018</EOY>
+      </SavingsAndTempCashInvestments>
+      <PrepaidExpensesDeferredCharges>
+        <EOY>6563</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <TotalAssets>
+        <BOY>46404</BOY>
+        <EOY>123336</EOY>
+      </TotalAssets>
+      <OtherLiabilities>
+        <BOY>500</BOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>500</BOY>
+        <EOY>0</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>45904</BOY>
+        <EOY>123336</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>45904</BOY>
+        <EOY>123336</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>46404</BOY>
+        <EOY>123336</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>77432</ReconcilationRevenueExpenses>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>false</FSAudited>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc2">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>29385</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>29475</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>471092</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>438623</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>533990</CurrentTaxYear>
+        <Total>1502565</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>541384</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>559225</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>158944</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>355653</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>406174</CurrentTaxYear>
+        <Total>2021380</Total>
+      </GrossReceiptsFromAdmissions>
+      <GrossReceiptsFromNonUBI>
+        <CurrentTaxYearMinus1Year>197</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3565</CurrentTaxYear>
+        <Total>3762</Total>
+      </GrossReceiptsFromNonUBI>
+      <Total509>
+        <CurrentTaxYearMinus4Years>570769</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>588700</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>630036</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>794473</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>943729</CurrentTaxYear>
+        <Total>3527707</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <CurrentTaxYearMinus2Years>99000</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>24000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>46980</CurrentTaxYear>
+        <Total>169980</Total>
+      </AmtsRecdFromDisqualPersons>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus2Years>99000</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>24000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>46980</CurrentTaxYear>
+        <Total>169980</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>3357727</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>246</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>626</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>646</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>240</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>35</CurrentTaxYear>
+        <Total>1793</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>246</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>626</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>646</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>240</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>35</CurrentTaxYear>
+        <Total>1793</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>571015</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>589326</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>630682</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>794713</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>943764</CurrentTaxYear>
+        <Total>3529500</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.95130</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.86000</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00000</InvestmentIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleG documentId="RetDoc4">
+      <EventsInformation>
+        <NameOfEvent1>AUCTION</NameOfEvent1>
+        <GrossReceiptsEvent1>460231</GrossReceiptsEvent1>
+        <CharitableContributionsEvent1>172951</CharitableContributionsEvent1>
+        <GrossRevenueEvent1>287280</GrossRevenueEvent1>
+        <FoodAndBeverageEvent1>67133</FoodAndBeverageEvent1>
+        <OtherDirectExpensesEvent1>263944</OtherDirectExpensesEvent1>
+        <NameOfEvent2>FALL FAIR</NameOfEvent2>
+        <GrossReceiptsEvent2>185814</GrossReceiptsEvent2>
+        <CharitableContributionsEvent2>94850</CharitableContributionsEvent2>
+        <GrossRevenueEvent2>90964</GrossRevenueEvent2>
+        <RentFacilityCostsEvent2>6302</RentFacilityCostsEvent2>
+        <FoodAndBeverageEvent2>8469</FoodAndBeverageEvent2>
+        <OtherDirectExpensesEvent2>32897</OtherDirectExpensesEvent2>
+        <TotalNumberOfOtherEvents>1</TotalNumberOfOtherEvents>
+        <GrossReceiptsOtherEvents>42900</GrossReceiptsOtherEvents>
+        <CharitableContribOtherEvents>42900</CharitableContribOtherEvents>
+        <GrossReceiptsTotal>688945</GrossReceiptsTotal>
+        <CharitableContributionsTotal>310701</CharitableContributionsTotal>
+        <GrossRevenueTotalEvents>378244</GrossRevenueTotalEvents>
+        <RentFacilityCostsTotalEvents>6302</RentFacilityCostsTotalEvents>
+        <FoodAndBeverageTotalEvents>75602</FoodAndBeverageTotalEvents>
+        <OtherDirectExpensesTotalEvents>296841</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>378745</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>-501</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc5">
+      <RecordsMaintained>true</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>PACE ACADEMY</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>966 WEST PACES FERRY ROAD NW</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30327</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>580706812</EINOfRecipient>
+        <IRCSection>501</IRCSection>
+        <AmountOfCashGrant>418944</AmountOfCashGrant>
+        <PurposeOfGrant>FALL CLASS FUNDING</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>1</TotalNbrOf501C3AndGovtGrants>
+      <Form990ScheduleIPartIV>
+        <Identifier>PROCEDURES FOR MONITORING THE USE OF GRANT FUNDS INSIDE THE UNITED STATES</Identifier>
+        <ReturnReference>SCHEDULE I, PAGE 1, PART I, LINE 2</ReturnReference>
+        <Explanation>WE ARE PROVIDED WITH AN ACCOUNTING OF ALL GRANT MONIES USED BY THE CFO OF PACE ACADEMY.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc6">
+      <WorksOfArt>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>29</NumberOfContributions>
+        <NoncashContribsRptdF990>40915</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </WorksOfArt>
+      <BooksAndPublications>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NoncashContribsRptdF990>130</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </BooksAndPublications>
+      <ClothingAndHouseholdGoods>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NoncashContribsRptdF990>30227</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </ClothingAndHouseholdGoods>
+      <SecuritiesPubliclyTraded>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>19980</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>NYSE</MethodOfDeterminingRevenues>
+      </SecuritiesPubliclyTraded>
+      <Collectibles>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>62</NumberOfContributions>
+        <NoncashContribsRptdF990>17419</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </Collectibles>
+      <FoodInventory>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>98</NumberOfContributions>
+        <NoncashContribsRptdF990>22534</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </FoodInventory>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>TRIPS</Description>
+        <NumberOfContributions>8</NumberOfContributions>
+        <NoncashContribsRptdF990>28300</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>SPORTS TICKETS</Description>
+        <NumberOfContributions>15</NumberOfContributions>
+        <NoncashContribsRptdF990>37175</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>CERTIFICATES</Description>
+        <NumberOfContributions>9</NumberOfContributions>
+        <NoncashContribsRptdF990>15629</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <AnyPropertyThatMustBeHeld>false</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>false</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>false</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc7">
+      <GeneralExplanation>
+        <Identifier>EXPLANATION ON VOLUNTEERS AND TYPES OF SERVICES OR BENEFITS</Identifier>
+        <ReturnReference>FORM 990, PAGE 1, PART I, LINE 6</ReturnReference>
+        <Explanation>THE ESTIMATE IS BASED ON THE ASSUMPTION THAT 2/3 OF FAMILIES HAVE AT LEAST ONE PARENT VOLUNTEER AND WE HAD 688 FAMILIES AT PACE ACADEMY THIS YEAR. VOLUNTEER SERVICES INCLUDE MAKING AND DELIVERING MEALS TO PACE FAMILIES FACING CRISIS, DECORATING THE CAMPUS FOR THE HOLIDAYS, ORGANIZING FUNDRAISERS, VOLUNTEERING AT OUR FUNDRAISING EVENTS, ORGANIZING PARENT EDUCATION CLASSES, SERVING AS HOSPITALITY VOLUNTEERS, STAFFING OUR BOOKSTORE AND SELLING INVENTORY, ORGANIZING TEACHER APPRECIATION EVENTS AND ALSO MANAGEMENT OF THE ORGANIZATION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ALL OTHER ACHIEVEMENTS DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4D</ReturnReference>
+        <Explanation>PROFESSIONAL DEVELOPMENT AND OTHER VARIOUS ACTIVITIES</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ADDITIONAL INFORMATION</Identifier>
+        <ReturnReference>FORM 990, PART VI</ReturnReference>
+        <Explanation>FORM 990, PART VI, SECTION B, LINE 12A THE ORGANIZATION HAS THE INTENTION OF ADAPTING A CONFLICT OF INTEREST POLICY. IT HAS NOT BEEN FINALIZED BY THE END OF THE YEAR.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>AUTHORITY DELEGATED TO EXECUTIVE COMMITTEE EXPLANATION</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI</ReturnReference>
+        <Explanation>EXECUTIVE COMMITTEE INCLUDES PRESIDENT, VICE PRESIDENT, PAST PRESIDENT, SECRETARY AND TREASURER, ALL OF WHICH ARE ON THE GOVERNING BODY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CLASSES OF MEMBERS OR STOCKHOLDERS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 6</ReturnReference>
+        <Explanation>MEMBERS CONSIST OF EACH PARENT OR GUARDIAN HAVING A CHILD ENROLLED AT PACE ACADEMY. MEMBERS ARE ENTITLED TO VOTE UPON ANY AND ALL MATTERS PRESENTED AT ANY MEETING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ELECTION OF MEMBERS AND THEIR RIGHTS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 7A</ReturnReference>
+        <Explanation>ALL MEMBERS ARE ELIGIBLE TO VOTE FOR CANDIDATES PRESENTED BY THE NOMINATING COMMITTEE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>DECISIONS SUBJECT TO APPROVAL OF MEMBERS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 7B</ReturnReference>
+        <Explanation>A VOTE BY THE MAJORITY OF MEMBERS, ASSUMING THERE IS A QUORUM, SHALL BE THE ACT OF ALL THE MEMBERS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ORGANIZATION'S PROCESS USED TO REVIEW FORM 990</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 11B</ReturnReference>
+        <Explanation>THE TREASURER PREPARES ALL THE NECESSARY SCHEDULES AND PROVIDES ALL THE DOCUMENTS TO SUPPORT THE PREPARATION OF THE FORM 990. A DRAFT COPY OF THE FORM 990 IS PRESENTED TO THE EXECUTIVE BOARD.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>GOVERNING DOCUMENTS DISCLOSURE EXPLANATION</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 19</ReturnReference>
+        <Explanation>UPON REQUEST, THE ELECTED PRESIDENT AND TREASURER WOULD BE ABLE TO PROVIDE DOCUMENTS AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc8">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>PACE ACADEMY INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>966 W PACES FERRY ROAD NW</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30327</ZIPCode>
+        </AddressUS>
+        <EIN>580706812</EIN>
+        <PrimaryActivities>EDUCATION</PrimaryActivities>
+        <LegalDomicileState>GA</LegalDomicileState>
+        <ExemptCodeSection>501(C)</ExemptCodeSection>
+        <PublicCharityStatus>2</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>false</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>true</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>true</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>false</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>true</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>PACE ACADEMY INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>B</TransactionType>
+        <AmountInvolved>418944</AmountInvolved>
+        <MethodOfAmtDetermination>CASH</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
